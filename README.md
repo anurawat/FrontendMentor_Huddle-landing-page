@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/anurawat/FrontendMentor_single-price-grid
-- Live Site URL: https://anurawat.github.io/FrontendMentor_single-price-grid/
+- Solution URL: https://github.com/anurawat/FrontendMentor_Huddle-landing-page
+- Live Site URL: https://anurawat.github.io/FrontendMentor_Huddle-landing-page/
 
 ## My process
 
@@ -38,8 +38,8 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
+- Media query
 
 ## Author
 
