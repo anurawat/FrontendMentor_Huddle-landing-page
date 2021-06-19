@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot 2021-06-19 at 16-14-19 Frontend Mentor Huddle landing page with single introductory section.png)
+![](./images/screenshot.png)
 
 
 ### Links
